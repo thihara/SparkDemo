@@ -11,6 +11,8 @@ A library to handle http connections and methods.
 [Maven](https://maven.apache.org/)
 Maven for building the project
 
+This project is written using Java 8. You will need JDK 1.8 installed to compile and run it.
+
 ## Configuration
 
 The bidding endpoints are listed in the `src/main/resources/config.properties` file.
